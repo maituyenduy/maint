@@ -34,11 +34,11 @@
                         </div>
                         <div class="item col-lg-4 col-md-4 col-sm-6 owl-item"> 
                             <div class="inner"> 
-                                <a class="poster" href="phim-bo/dat-me_8200/" title="Đất Mẹ - Home land"> 
+                                <a class="poster" href="#" title="Đất Mẹ - Home land"> 
                                     <img src="http://cdn.phim3s.net/images/films/thumb/dat-me-home-land-2014.jpg" > 
                                 </a>  
                                 <span class="status">Tập 12</span>   
-                                <a class="name" href="phim-bo/dat-me_8200/" >Đất Mẹ</a> 
+                                <a class="name" href="#" >Đất Mẹ</a> 
                                 <dfn>Home land</dfn> 
                                 <dfn>2014</dfn> 
                             </div> 
