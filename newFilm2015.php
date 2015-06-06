@@ -19,30 +19,30 @@
                 <div class="block-body slider col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 3%">
                     <div class="item col-lg-4 col-md-4 col-sm-6 owl-item" > 
                         <div class="inner"> 
-                            <a class="poster" href="phim-bo/mat-dang-cuoc-doi_5790/" > 
+                            <a class="poster" href="#" > 
                                 <img src="http://cdn.phim3s.net/images/films/thumb/mat-dang-cuoc-doi-the-women-of-our-home-2011.jpg" > 
 
                             </a>  
                             <span class="status">125/125</span>  
-                            <a class="name" href="phim-bo/mat-dang-cuoc-doi_5790/" >Mật Đắng Cuộc Đời</a> 
+                            <a class="name" href="#" >Mật Đắng Cuộc Đời</a> 
                             <dfn>The Women of Our Home</dfn> 
                             <dfn>2011</dfn> </div> 
                     </div>
                     <div class="item col-lg-4 col-md-4 col-sm-6  " > 
                         <div class="inner">
-                            <a class="poster" href="phim-le/tu-than-trong-nha_5659/" >
+                            <a class="poster" href="#/" >
                                 <img src="http://cdn.phim3s.net/images/films/thumb/tu-than-trong-nha-home-sweet-home-2013.jpg"> 
 
                             </a>  
                             <span class="status">Bản Đẹp</span>   
-                            <a class="name" href="phim-le/tu-than-trong-nha_5659/" >Tử Thần Trong Nhà</a> 
+                            <a class="name" href="#" >Tử Thần Trong Nhà</a> 
                             <dfn>Home Sweet Home</dfn> 
                             <dfn>2013</dfn> 
                         </div> 
                     </div>
                     <div class="item col-lg-4 col-md-4 col-sm-6owl-item"> 
                         <div class="inner"> 
-                            <a class="poster" href="phim-bo/dat-me_8200/" title="Đất Mẹ - Home land"> 
+                            <a class="poster" href="#" title="Đất Mẹ - Home land"> 
                                 <img src="http://cdn.phim3s.net/images/films/thumb/dat-me-home-land-2014.jpg" > 
                             </a>  
                             <span class="status">Tập 12</span>   
@@ -55,30 +55,30 @@
                 <div class="block-body slider col-lg-12 col-md-12 col-sm-12 col-xs-12" style="margin-top: 3%">
                     <div class="item col-lg-4 col-md-4 col-sm-6 owl-item" > 
                         <div class="inner"> 
-                            <a class="poster" href="phim-bo/mat-dang-cuoc-doi_5790/" > 
+                            <a class="poster" href="#" > 
                                 <img src="http://cdn.phim3s.net/images/films/thumb/mat-dang-cuoc-doi-the-women-of-our-home-2011.jpg" > 
 
                             </a>  
                             <span class="status">125/125</span>  
-                            <a class="name" href="phim-bo/mat-dang-cuoc-doi_5790/" >Mật Đắng Cuộc Đời</a> 
+                            <a class="name" href="#" >Mật Đắng Cuộc Đời</a> 
                             <dfn>The Women of Our Home</dfn> 
                             <dfn>2011</dfn> </div> 
                     </div>
                     <div class="item col-lg-4 col-md-4 col-sm-6  " > 
                         <div class="inner">
-                            <a class="poster" href="phim-le/tu-than-trong-nha_5659/" >
+                            <a class="poster" href="#" >
                                 <img src="http://cdn.phim3s.net/images/films/thumb/tu-than-trong-nha-home-sweet-home-2013.jpg"> 
 
                             </a>  
                             <span class="status">Bản Đẹp</span>   
-                            <a class="name" href="phim-le/tu-than-trong-nha_5659/" >Tử Thần Trong Nhà</a> 
+                            <a class="name" href="#" >Tử Thần Trong Nhà</a> 
                             <dfn>Home Sweet Home</dfn> 
                             <dfn>2013</dfn> 
                         </div> 
                     </div>
                     <div class="item col-lg-4 col-md-4 col-sm-6  owl-item"> 
                         <div class="inner"> 
-                            <a class="poster" href="phim-bo/dat-me_8200/" title="Đất Mẹ - Home land"> 
+                            <a class="poster" href="#" title="Đất Mẹ - Home land"> 
                                 <img src="http://cdn.phim3s.net/images/films/thumb/dat-me-home-land-2014.jpg" > 
                             </a>  
                             <span class="status">Tập 12</span>   
