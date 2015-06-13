@@ -1,0 +1,25 @@
+
+                    /* jssor slider direction navigator skin 20 css */
+                    /*
+                    .jssord20l              (normal)
+                    .jssord20r              (normal)
+                    .jssord20l:hover        (normal mouseover)
+                    .jssord20r:hover        (normal mouseover)
+                    .jssord20ldn            (mousedown)
+                    .jssord20rdn            (mousedown)
+                    */
+                    .jssord20l, .jssord20r, .jssord20ldn, .jssord20rdn
+                    {
+                        position: absolute;
+                        cursor: pointer;
+                        display: block;
+                        background: url(../img/d20.png) no-repeat;
+                        overflow:hidden;
+                    }
+                    .jssord20l { background-position: -3px -33px; margin-top: -50px; }
+                    .jssord20r { background-position: -63px -33px;margin-top: -50px;  }
+                    .jssord20l:hover { background-position: -3px -33px; margin-top: -50px; }
+                    .jssord20r:hover { background-position: -3px -33px; margin-top: -50px; }
+                    .jssord20ldn { background-position: -3px -33px; margin-top: -50px; }
+                    .jssord20rdn { background-position: -3px -33px; margin-top: -50px; }
+                
